@@ -6,7 +6,7 @@ A TUI-inspired theme for BetterDiscord clients.
 
 **⚠️ NOTE**: This theme is an early work in progress, and I'm not incredibly good at CSS. If you have the skills to fix issues or theme remaining UI elements, please contribute them!
 
-I've always wanted a full-featured discord client that has the minimal look and feel of a TUI, so I decided to hack together a theme.
+I've always wanted a full-featured discord client that has the minimal look and feel of a TUI and vibes with my [Hyprland](https://github.com/hyprwm/Hyprland) setup, so I decided to hack together a theme.
 
 The design is heavily inspired by the amazing [Text theme for Spicetify](https://github.com/spicetify/spicetify-themes/blob/master/text/README.md).
 
